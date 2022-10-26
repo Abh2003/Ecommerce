@@ -1,0 +1,44 @@
+/* theme dark */
+.bg-black{
+  background-color: black;
+}
+.bg-light-black{
+  background-color: #262626 !important;
+}
+.text-black{
+  color: black;
+}
+.text-light-black{
+  color: #262626;
+}
+.bg-dark-primary{
+  background-color: #fcbc73 !important;
+}
+.text-dark-primary{
+  color: #fcbc73 !important;
+}
+.fg-color{
+  background-color:white;
+  height: 80px;
+  padding-top: 30px;
+}
+.fixed-footer{
+  margin-top: 100px;
+   bottom: 0;
+   text-align: center;
+   width: 100%;
+  position: fixed;        
+}
+/* theme light */
+.bg-light{
+  background-color: white;
+}
+.bg-light-2{
+  background-color: #dadcde;
+}
+.bg-light-primary{
+  background-color: #191659 !important;
+}
+.text-light-primary{
+  color: #191659 !important;
+}
